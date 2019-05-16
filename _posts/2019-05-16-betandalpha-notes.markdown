@@ -7,9 +7,9 @@ categories: jekyll update
 
 As a preparation for the course we plan to read:
 1. [Probability Theory (For Scientists and Engineers)](https://betanalpha.github.io/assets/case_studies/probability_theory.html)
-2. [Conditional Probability Theory (For Scientists and Engineers)]: https://betanalpha.github.io/assets/case_studies/conditional_probability_theory.html
-3. [Probabilistic Modeling and Statistical Inference]: https://betanalpha.github.io/assets/case_studies/modeling_and_inference.html
-4. [Towards A Principled Bayesian Workflow]: https://betanalpha.github.io/assets/case_studies/principled_bayesian_workflow.html
+2. [Conditional Probability Theory (For Scientists and Engineers)](https://betanalpha.github.io/assets/case_studies/conditional_probability_theory.html)
+3. [Probabilistic Modeling and Statistical Inference](https://betanalpha.github.io/assets/case_studies/modeling_and_inference.html)
+4. [Towards A Principled Bayesian Workflow](https://betanalpha.github.io/assets/case_studies/principled_bayesian_workflow.html)
 
 # Terms
 
@@ -43,7 +43,7 @@ What is statistical learning?
 Statistical learning, on the other hand, essentially deals with the inverse problem: We are given the outcomes of experiments, and from this we want to infer properties of the underlying mathematical structure. Given data X say sometyhing about P(X)
 
 What is a data generating process?
-[from quora]: https://www.quora.com/How-is-the-data-generating-process-DGP-different-from-the-model-in-regression-analysis
+[from quora](https://www.quora.com/How-is-the-data-generating-process-DGP-different-from-the-model-in-regression-analysis)
 
 Why the model is (usually) not perfect:
 - simplifying assumptions

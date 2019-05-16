@@ -27,7 +27,7 @@ https://www.inference.vc/causal-inference-3-counterfactuals/
 https://www.technologyreview.com/s/613502/deep-learning-could-reveal-why-the-world-works-the-way-it-does/
 
 The Book of Why 
-Elements of Causal Inference (https://mitpress.mit.edu/books/elements-causal-inference)
+[Elements of Causal Inference ](https://mitpress.mit.edu/books/elements-causal-inference)
 
 
 # People

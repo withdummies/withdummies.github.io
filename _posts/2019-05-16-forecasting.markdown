@@ -9,6 +9,6 @@ categories: jekyll update
 Forecasting, bayesian modeling
 
 
-[Phophet paper]: https://peerj.com/preprints/3190/
+[Phophet paper](https://peerj.com/preprints/3190/)
 
-[Structural Time Series modeling in TensorFlow Probability]: https://medium.com/tensorflow/structural-time-series-modeling-in-tensorflow-probability-344edac24083?linkId=65056724
+[Structural Time Series modeling in TensorFlow Probability](https://medium.com/tensorflow/structural-time-series-modeling-in-tensorflow-probability-344edac24083?linkId=65056724)
