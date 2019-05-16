@@ -31,9 +31,12 @@ testing Mathjax
 
 {% include mathjax.html %}
 
-In line latex $$ \sum_{i=1}^{i=3} i = 6 $$. As we see.
+In line latex $$ \sum_{i=1}^{i=3} i = 6 \label{eq:mc}$$. As we see.
 
-$ \sum_{i=1}^{i=3} i = 6 $
+$ \sum_{i=1}^{i=3} i = 6 \label{eq:mc2}$
+
+escape
+\$ \sum_{i=1}^{i=3} i = 6 \$
 
 Other equation:
 
