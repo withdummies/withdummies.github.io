@@ -46,3 +46,9 @@ E = mc^2 \label{eq:mc2}
 \end{equation}
 
 This is another ref to \ref{eq:mc} and \ref{eq:mc2}.
+
+Inline math
+\(E = mc^2 \label{eq:mc3}\)
+
+Display math
+\[E = mc^2 \label{eq:mc4}\]
