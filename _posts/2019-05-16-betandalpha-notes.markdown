@@ -6,7 +6,7 @@ categories: jekyll update
 ---
 
 As a preparation for the course we plan to read:
-1. [Probability Theory (For Scientists and Engineers)]: https://betanalpha.github.io/assets/case_studies/probability_theory.html
+1. [Probability Theory (For Scientists and Engineers)](https://betanalpha.github.io/assets/case_studies/probability_theory.html)
 2. [Conditional Probability Theory (For Scientists and Engineers)]: https://betanalpha.github.io/assets/case_studies/conditional_probability_theory.html
 3. [Probabilistic Modeling and Statistical Inference]: https://betanalpha.github.io/assets/case_studies/modeling_and_inference.html
 4. [Towards A Principled Bayesian Workflow]: https://betanalpha.github.io/assets/case_studies/principled_bayesian_workflow.html
