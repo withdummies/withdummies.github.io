@@ -5,20 +5,19 @@ date:   2019-05-16 10:17:50 +0200
 categories: jekyll update
 ---
 
-This are my notes on causality.
+These are my notes on causality.
 
-Concepts:
+# Concepts
 Ladder of Causation - Association (seeing), Intervention (doing), Counterfactuals (imagining).
 
 
-Ideas & Intuitions:
+# Ideas & Intuitions
 - Properties that remain invariant across environments are related to causation.
 - If we identify a property that doesn't change across environments we can predict in new environments and perform well.
 - The property will usually don't be a feature in our dataset but instead a function of several features ($\phi$ is a mapping between the feature space and the invariant properties). 
 - Statistical Learning is about association, Causal Learning is about association, intervention and counterfactuals.
-- 
 
-References:
+# References
 https://medium.com/@akelleh/a-technical-primer-on-causality-181db2575e41
 
 https://www.inference.vc/untitled/
@@ -31,7 +30,7 @@ The Book of Why
 Elements of Causal Inference (https://mitpress.mit.edu/books/elements-causal-inference)
 
 
-People:
+# People
 Judea Pearl
 Jonas Peters
 Dominik Janzing
