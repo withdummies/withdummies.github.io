@@ -3,6 +3,7 @@ layout: post
 title:  "Welcome to Jekyll!"
 date:   2019-05-05 10:03:50 +0200
 categories: jekyll update
+mathjax: true
 ---
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
@@ -23,3 +24,32 @@ Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most ou
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
 [jekyll-talk]: https://talk.jekyllrb.com/
+
+
+---
+testing Mathjax
+
+{% include mathjax.html %}
+
+latex
+$$ \sum $$
+
+ex1:
+
+\begin{equation}
+E = mc^2
+\end{equation}
+
+ex2:
+$
+\begin{equation}
+E = mc^2
+\end{equation}
+$
+
+ex3:
+$$
+\begin{equation}
+E = mc^2
+\end{equation}
+$$

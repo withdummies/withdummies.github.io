@@ -5,12 +5,6 @@ date:   2019-05-16 10:17:50 +0200
 categories: jekyll update
 mathjax: true
 ---
-
-{% include mathjax.html %}
-
-latex
-$$ \sum $$
-
 # Keywords
 Probabilistic Programming
 
