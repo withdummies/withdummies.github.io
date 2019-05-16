@@ -31,25 +31,18 @@ testing Mathjax
 
 {% include mathjax.html %}
 
-latex
-$$ \sum $$
+In line latex $$ \sum_{i=1}^{i=3} i = 6 $$. As we see.
 
-ex1:
+Other equation:
 
 \begin{equation}
-E = mc^2
+E = mc^2 \label{eq:mc}
 \end{equation}
 
-ex2:
-$
-\begin{equation}
-E = mc^2
-\end{equation}
-$
+This is a ref to \ref{eq:mc}.
 
-ex3:
-$$
 \begin{equation}
-E = mc^2
+E = mc^2 \label{eq:mc2}
 \end{equation}
-$$
+
+This is another ref to \ref{eq:mc} and \ref{eq:mc2}.
