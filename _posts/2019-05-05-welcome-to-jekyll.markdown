@@ -31,14 +31,27 @@ testing Mathjax
 
 {% include mathjax.html %}
 
-In line latex $$ \sum_{i=1}^{i=3} i = 6 \label{eq:mc}$$. As we see.
+In line latex $$ \sum_{i=1}^{i=3} i = 6 $$. As we see.
 
-$ \sum_{i=1}^{i=3} i = 6 \label{eq:mc2}$
+$ \sum_{i=1}^{i=3} i = 6$
 
 escape
 \$ \sum_{i=1}^{i=3} i = 6 \$
 
 Other equation:
+
+$
+\begin{equation}
+E = mc^2 \label{eq:mc}
+\end{equation}
+$
+
+$$
+
+\begin{equation}
+E = mc^2 \label{eq:mc2}
+\end{equation}
+$$
 
 \begin{equation}
 E = mc^2 \label{eq:mc}
