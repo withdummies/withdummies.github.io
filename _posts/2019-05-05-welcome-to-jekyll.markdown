@@ -33,6 +33,8 @@ testing Mathjax
 
 In line latex $$ \sum_{i=1}^{i=3} i = 6 $$. As we see.
 
+$ \sum_{i=1}^{i=3} i = 6 $
+
 Other equation:
 
 \begin{equation}
