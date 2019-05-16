@@ -13,12 +13,11 @@ Probabilistic Programming
 # Application
 How to apply the framework? Stan, Edward, PyMC3, Pyro, TensorFlow Probability (Pytorch and TensorFlow). 
 
-#Examples 
+# Examples 
 Practical problems being solved with bayesian techniques
 
 ## Using Bayesian Decision Making to Optimize Supply Chains
 https://twiecki.io/blog/2019/01/14/supply_chain/
-
 
 # References
 
