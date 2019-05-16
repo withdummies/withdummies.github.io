@@ -50,5 +50,13 @@ This is another ref to \ref{eq:mc} and \ref{eq:mc2}.
 Inline math
 \(E = mc^2 \label{eq:mc3}\)
 
+\(\begin{equation}
+E = mc^2 \label{eq:mc5}
+\end{equation}\)
+
 Display math
 \[E = mc^2 \label{eq:mc4}\]
+
+\[\begin{equation}
+E = mc^2 \label{eq:mc6}
+\end{equation}\]
